@@ -31,9 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHAZZAD-BS1572&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAZZAD-BS1572&" alt="GitHub Streak" />
-</p>
+
 
 ## 🎓 Education
 - **[B.Sc.]** in **[CSE]**
